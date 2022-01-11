@@ -2,15 +2,6 @@
 I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Application from Bangalore University,India. I am a Full stack Software engineer with 5+ years of commercial experience in software development with PHP,C#,Javascript and other programming languages,a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesmuojekwu&hide=issues,contribs" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmuojekwu&layout=compact" />
-</a>
-
-
-
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5a5cdb02d5c2df6364301d27fa95d5883cf23184bd375adaf69bb04289cc79ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d706870"><img src="https://camo.githubusercontent.com/5a5cdb02d5c2df6364301d27fa95d5883cf23184bd375adaf69bb04289cc79ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d706870" alt="PHP" data-canonical-src="https://img.shields.io/badge/-php-E34A86?style=flat-square&amp;logo=php" style="max-width: 100%;"></a>
  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"><img style="max-width: 100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" height="20"></a>
@@ -30,6 +21,13 @@ I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Appli
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img style="max-width: 100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="20"></a>
 
  </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesmuojekwu&hide=issues,contribs" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmuojekwu&layout=compact" />
+</a>
 
 
 
