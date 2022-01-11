@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Application from Bangalore University,India. I am a Full stack Software engineer with 5+ years of commercial experience in software development with PHP,C#,Javascript and other programming languages,a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-<p>
-
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5a5cdb02d5c2df6364301d27fa95d5883cf23184bd375adaf69bb04289cc79ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d706870"><img src="https://camo.githubusercontent.com/5a5cdb02d5c2df6364301d27fa95d5883cf23184bd375adaf69bb04289cc79ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d706870" alt="PHP" data-canonical-src="https://img.shields.io/badge/-php-E34A86?style=flat-square&amp;logo=php" style="max-width: 100%;"></a>
  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"><img style="max-width: 100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" height="20"></a>
@@ -20,9 +18,6 @@ I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Appli
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974"><img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img style="max-width: 100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="20"></a>
-
-  
-</p>
 
 
 
