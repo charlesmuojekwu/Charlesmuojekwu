@@ -2,10 +2,10 @@
 I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Application from Bangalore University,India. I am a Full stack Software engineer with 5+ years of commercial experience in software development with PHP,C#,Javascript and other programming languages,a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesmuojekwu&hide=issues,contribs" />
+  <img align="left" style="width="60%" src="https://github-readme-stats.vercel.app/api?username=charlesmuojekwu&hide=issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmuojekwu&layout=compact" />
+  <img align="right" style="width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmuojekwu&layout=compact" />
 </a>
 
 
