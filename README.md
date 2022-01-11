@@ -28,6 +28,8 @@ I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Appli
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width: 100%;" height="20"></a>
 </p>
 
+<!--
+
 <div style="width:100%">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" style="width:"50%" src="https://github-readme-stats.vercel.app/api?username=charlesmuojekwu&hide=issues,contribs" />
@@ -40,7 +42,7 @@ I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Appli
 
 
 
-<!--
+
 **charlesmuojekwu/Charlesmuojekwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
