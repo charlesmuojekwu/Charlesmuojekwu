@@ -26,7 +26,7 @@ I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Appli
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesmuojekwu&hide=issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmuojekwu&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmuojekwu&layout=compact" />
 </a>
 
 
