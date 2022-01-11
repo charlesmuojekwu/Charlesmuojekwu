@@ -30,10 +30,10 @@ I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Appli
 
 <div style="width:100%">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" style="width="60%" src="https://github-readme-stats.vercel.app/api?username=charlesmuojekwu&hide=issues,contribs" />
+  <img align="left" style="width:"50%" src="https://github-readme-stats.vercel.app/api?username=charlesmuojekwu&hide=issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" style="width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmuojekwu&layout=compact" />
+  <img align="right" style="width:"35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmuojekwu&layout=compact" />
 </a>
 </div>
 
