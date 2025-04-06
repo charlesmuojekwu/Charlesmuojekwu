@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Application from Bangalore University,India. I am a Full stack Software engineer with 7+ years of commercial experience in software development with PHP,C#,Javascript and other programming languages,a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here.
+I am Charles Muojekwu, Completed my bachelor's degree majoring in computer Application from Bangalore University,India. I am a Full stack Software engineer with 10+ years of commercial experience in software development with Phyton, PHP,Node Js,Javascript and other programming languages,a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here.
 
 Welcome to My Personal Repo This Is Where I Ship Stuffs, I Find Interesting and Work on With My Spare Time
 
