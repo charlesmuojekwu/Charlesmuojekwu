@@ -46,22 +46,6 @@ I am currently focused on combining my backend engineering background with AI sy
 
 ---
 
-## 📌 Featured Projects
-
-### Books API
-RESTful API for managing books, users, and CRUD operations.
-
-### OAuth2 Passport
-OAuth2 implementation using Laravel Passport for third-party client authentication.
-
-### Chat App
-Event-driven chat application using Laravel backend and Angular/Vue frontend.
-
-### Laravel Repository Pattern
-Repository-pattern implementation for cleaner Laravel architecture and maintainable backend code.
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: [charlesmuojekwu](https://github.com/charlesmuojekwu)
